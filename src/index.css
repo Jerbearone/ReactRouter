@@ -6,7 +6,7 @@
 body,
 body > div {
   height: 100vh;
-  width: 100vw;
+  width: 95%;
 }
 
 #container {
@@ -35,12 +35,20 @@ body > div {
   justify-content: center;
 }
 
+.home{
+  background-color: grey;
+  color: white;
+  border-radius: 1rem;
+}
+
 .red {
   background-color: #b05f6d;
   color: white;
+  border-radius: 1rem;
 }
 
 .blue {
   background-color: #275db3;
   color: white;
+  border-radius: 1rem;
 }
